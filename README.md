@@ -7,15 +7,12 @@ This is my V Card like a resume and see all information of me.
  - Responsive Design
  - HTML, CSS, JS and Jquery only
  - Theme Available  <br> 1. Dark.
- - Exact Time Show in Clock
 
 ## Getting Started
 
 Click on this link and running on your brouser for development and testing purposes.
 
-```
 [V Card](https://github.com/sachin35544)
-```
 
 ### Prerequisites
 
@@ -46,5 +43,5 @@ The versions available, see the [1.0.0](https://github.com/your/project/tags).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 
