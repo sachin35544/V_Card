@@ -12,7 +12,7 @@ This is my V Card like a resume and see all information of me.
 
 Click on this link and running on your brouser for development and testing purposes.
 
-[V Card](https://github.com/sachin35544)
+[V Card](https://sachin35544.github.io/V_Card/)
 
 ### Prerequisites
 
@@ -31,7 +31,7 @@ A brouser Install in your device.
 
 ## Versioning
 
-The versions available, see the [1.0.0](https://github.com/your/project/tags). 
+The versions available, see the [1.0.0](https://sachin35544.github.io/V_Card/). 
 
 ## Authors
 
