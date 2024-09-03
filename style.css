@@ -116,6 +116,7 @@ body::-webkit-scrollbar-thumb:hover {
 .myavater img {
     background: linear-gradient(to bottom right, rgb(64, 64, 64) 3%, rgb(48, 48, 48) 97%);
     border-radius: 30px;
+    padding: 15px;
     width: 150px;
 }
 
