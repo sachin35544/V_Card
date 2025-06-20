@@ -141,7 +141,7 @@ function sendemail() {
 
     Email.send({
         SecureToken: "2702ccdb-6519-43a5-a59f-72ba10c2608f",
-        To: ${email.value},
+        To: email.value,
         From: 'kumawatsachin0987@gmail.com',
         Subject: "V Card Mail",
         Body: bodymessage
