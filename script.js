@@ -1,5 +1,5 @@
 var type = new Typed('.text', {
-    strings: ["Web Developer", "Front-End Developer", "App Developer", "UI/UX Designer"],
+    strings: ["Web Developer", "Front-End Developer", "Flutter Developer", "UI/UX Designer"],
     typeSpeed: 50,
     backSpeed: 50,
     backDelay: 1500,
@@ -141,7 +141,7 @@ function sendemail() {
 
     Email.send({
         SecureToken: "2702ccdb-6519-43a5-a59f-72ba10c2608f",
-        To: 'kumawatsachin0987@gmail.com',
+        To: email,
         From: 'kumawatsachin0987@gmail.com',
         Subject: "V Card Mail",
         Body: bodymessage
